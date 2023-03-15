@@ -16,3 +16,6 @@ https://github.com/EISCFCU/11102ACF/blob/main/Quicklab%232_%E9%9D%9C%E6%85%8B%E7
 #0308 IAM
 
 https://github.com/EISCFCU/11102ACF/blob/main/IAM.md
+
+#0315 VPC
+https://github.com/EISCFCU/11102ACF/blob/main/Create%20VPC%20connect%20with%20EC2
